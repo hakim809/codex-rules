@@ -1200,6 +1200,116 @@
       "id": 240,
       "text": "Tu te rappelles que la discipline dans ce domaine se transfère — un homme qui se maîtrise ici se maîtrise partout.",
       "category": "discipline"
+    },
+    {
+      "id": 241,
+      "text": "Tu admets que tu as un problème avant que les autres soient obligés de te le dire.",
+      "category": "addictions"
+    },
+    {
+      "id": 242,
+      "text": "Tu ne minimises pas ta consommation quand on te pose la question — ni aux autres, ni à toi-même.",
+      "category": "addictions"
+    },
+    {
+      "id": 243,
+      "text": "Tu identifies tes déclencheurs — les personnes, les lieux, les émotions qui précèdent toujours la rechute.",
+      "category": "addictions"
+    },
+    {
+      "id": 244,
+      "text": "Tu changes ton environnement avant d'essayer de changer ta volonté — l'environnement gagne presque toujours.",
+      "category": "addictions"
+    },
+    {
+      "id": 245,
+      "text": "Tu ne fréquentes pas les endroits ni les personnes qui alimentent ce que tu essaies d'arrêter.",
+      "category": "addictions"
+    },
+    {
+      "id": 246,
+      "text": "Tu remplaces le vide laissé par l'addiction — un vide sans remplacement se comble tout seul, mal.",
+      "category": "addictions"
+    },
+    {
+      "id": 247,
+      "text": "Tu cherches une aide professionnelle sans honte — la dépendance est une mécanique cérébrale, pas un défaut de caractère.",
+      "category": "addictions"
+    },
+    {
+      "id": 248,
+      "text": "Tu ne te bats pas seul si tu peux ne pas l'être — l'isolement est le meilleur allié de l'addiction.",
+      "category": "addictions"
+    },
+    {
+      "id": 249,
+      "text": "Tu ne te mens pas sur les 'exceptions' — une exception est souvent le début d'une rechute.",
+      "category": "addictions"
+    },
+    {
+      "id": 250,
+      "text": "Tu mesures honnêtement le coût réel — en argent, en temps, en relations, en santé — et tu l'écris.",
+      "category": "addictions"
+    },
+    {
+      "id": 251,
+      "text": "Tu ne te juges pas pour ce que l'addiction t'a fait faire — mais tu assumes la responsabilité de ce que tu fais maintenant.",
+      "category": "addictions"
+    },
+    {
+      "id": 252,
+      "text": "Tu construis une routine matinale solide — les rechutes arrivent rarement quand la journée commence avec intention.",
+      "category": "addictions"
+    },
+    {
+      "id": 253,
+      "text": "Tu dors suffisamment — le manque de sommeil sabote tous tes mécanismes de contrôle.",
+      "category": "addictions"
+    },
+    {
+      "id": 254,
+      "text": "Tu fais de l'exercice régulièrement — le sport régule les mêmes circuits de récompense que l'addiction.",
+      "category": "addictions"
+    },
+    {
+      "id": 255,
+      "text": "Tu célèbres chaque jalon — une semaine, un mois, un an — sans attendre que quelqu'un le fasse pour toi.",
+      "category": "addictions"
+    },
+    {
+      "id": 256,
+      "text": "Tu ne conditionnes pas ton bonheur à l'arrêt complet — chaque jour sans est une victoire en soi.",
+      "category": "addictions"
+    },
+    {
+      "id": 257,
+      "text": "Tu apprends à tolérer l'inconfort sans le fuir — l'addiction est souvent une fuite, la guérison est un retour.",
+      "category": "addictions"
+    },
+    {
+      "id": 258,
+      "text": "Tu répares les relations abîmées par tes comportements — pas pour te faire pardonner, mais parce que c'est juste.",
+      "category": "addictions"
+    },
+    {
+      "id": 259,
+      "text": "Tu restes vigilant même quand tout va bien — les rechutes arrivent souvent dans les moments de confort, pas de crise.",
+      "category": "addictions"
+    },
+    {
+      "id": 260,
+      "text": "Tu te rappelles chaque jour pourquoi tu as arrêté — écris-le, relis-le, garde-le visible.",
+      "category": "addictions"
+    },
+    {
+      "id": 261,
+      "text": "Tu sais que rechuter ne signifie pas échouer — ça signifie que tu continues un combat qui en vaut la peine.",
+      "category": "addictions"
+    },
+    {
+      "id": 262,
+      "text": "Tu aides quelqu'un d'autre quand tu en es capable — enseigner ce qu'on a traversé est l'une des guérisons les plus solides.",
+      "category": "addictions"
     }
   ]
 }
