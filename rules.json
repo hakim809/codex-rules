@@ -1100,6 +1100,106 @@
       "id": 220,
       "text": "Tu passes un mois sans alcool au moins une fois par an — pour savoir que tu peux.",
       "category": "alcohol"
+    },
+    {
+      "id": 221,
+      "text": "Tu supprimes toute application qui alimente la tentation — sans négociation avec toi-même.",
+      "category": "discipline"
+    },
+    {
+      "id": 222,
+      "text": "Tu ne restes pas seul avec ton téléphone dans l'obscurité — change d'environnement immédiatement.",
+      "category": "discipline"
+    },
+    {
+      "id": 223,
+      "text": "Tu identifies l'émotion derrière l'envie — l'ennui, la solitude, l'anxiété — et tu la traites à la source.",
+      "category": "discipline"
+    },
+    {
+      "id": 224,
+      "text": "Tu remplis ton emploi du temps jusqu'à ce que la tentation n'ait plus de place pour s'installer.",
+      "category": "discipline"
+    },
+    {
+      "id": 225,
+      "text": "Tu te lèves immédiatement quand l'envie arrive — le mouvement physique coupe le circuit mental.",
+      "category": "discipline"
+    },
+    {
+      "id": 226,
+      "text": "Tu ne gardes pas de contenu problématique en cache, en favori, ou accessible en un clic.",
+      "category": "discipline"
+    },
+    {
+      "id": 227,
+      "text": "Tu actives des filtres sur tous tes appareils — pas par honte, mais parce que réduire la friction fonctionne.",
+      "category": "discipline"
+    },
+    {
+      "id": 228,
+      "text": "Tu mesures ta progression en jours — un compteur simple suffit, il rend le streaks précieux.",
+      "category": "discipline"
+    },
+    {
+      "id": 229,
+      "text": "Tu ne te punis pas après une rechute — tu analyses, tu ajustes, tu recommences le lendemain matin.",
+      "category": "discipline"
+    },
+    {
+      "id": 230,
+      "text": "Tu remplaces le temps libéré par quelque chose de physique — sport, marche, douche froide.",
+      "category": "discipline"
+    },
+    {
+      "id": 231,
+      "text": "Tu parles de cette bataille à au moins une personne de confiance — la honte prospère dans le silence.",
+      "category": "discipline"
+    },
+    {
+      "id": 232,
+      "text": "Tu comprends que la consommation de pornographie déforme ta perception des relations réelles — ce n'est pas anodin.",
+      "category": "discipline"
+    },
+    {
+      "id": 233,
+      "text": "Tu reconnais que l'envie dure en moyenne 90 secondes si tu ne l'alimentes pas — tiens 90 secondes.",
+      "category": "discipline"
+    },
+    {
+      "id": 234,
+      "text": "Tu ne te connectes pas à Internet la nuit si tu sais que c'est un moment de faiblesse.",
+      "category": "discipline"
+    },
+    {
+      "id": 235,
+      "text": "Tu gardes ton téléphone hors de ta chambre — la chambre est un espace de repos, pas de tentation.",
+      "category": "discipline"
+    },
+    {
+      "id": 236,
+      "text": "Tu construis une vision claire de l'homme que tu veux être — et tu demandes si cette habitude sert cet homme.",
+      "category": "discipline"
+    },
+    {
+      "id": 237,
+      "text": "Tu comprends que chaque victoire renforce ta volonté dans tous les autres domaines de ta vie.",
+      "category": "discipline"
+    },
+    {
+      "id": 238,
+      "text": "Tu évites la fatigue extrême et la faim — les états d'épuisement affaiblissent tous tes garde-fous.",
+      "category": "discipline"
+    },
+    {
+      "id": 239,
+      "text": "Tu médites ou respires profondément quand la tension monte — le corps a besoin d'une sortie, donne-lui en une propre.",
+      "category": "discipline"
+    },
+    {
+      "id": 240,
+      "text": "Tu te rappelles que la discipline dans ce domaine se transfère — un homme qui se maîtrise ici se maîtrise partout.",
+      "category": "discipline"
     }
   ]
 }
