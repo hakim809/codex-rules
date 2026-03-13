@@ -1310,6 +1310,106 @@
       "id": 262,
       "text": "Tu aides quelqu'un d'autre quand tu en es capable — enseigner ce qu'on a traversé est l'une des guérisons les plus solides.",
       "category": "addictions"
+    },
+    {
+      "id": 263,
+      "text": "Tu relis ton message une fois avant d'envoyer — une seconde de relecture évite des heures d'explication.",
+      "category": "communication"
+    },
+    {
+      "id": 264,
+      "text": "Tu n'envoies jamais un message sous l'effet de la colère — pose le téléphone, reviens dans une heure.",
+      "category": "communication"
+    },
+    {
+      "id": 265,
+      "text": "Tu ne règles pas un conflit par SMS — certaines conversations méritent une voix, voire un visage.",
+      "category": "communication"
+    },
+    {
+      "id": 266,
+      "text": "Tu réponds dans la journée — laisser quelqu'un sans réponse est une forme de mépris silencieux.",
+      "category": "communication"
+    },
+    {
+      "id": 267,
+      "text": "Tu ne laisses pas un message 'vu' sans réponse si la personne attend clairement quelque chose de toi.",
+      "category": "communication"
+    },
+    {
+      "id": 268,
+      "text": "Tu vas à l'essentiel — un email de dix lignes qui pourrait en faire trois manque de respect pour le temps de l'autre.",
+      "category": "communication"
+    },
+    {
+      "id": 269,
+      "text": "Tu soignes ton orthographe — écrire avec des fautes à quelqu'un que tu respectes, c'est te présenter mal habillé.",
+      "category": "communication"
+    },
+    {
+      "id": 270,
+      "text": "Tu n'utilises pas les majuscules pour crier — si tu dois hausser le ton par écrit, le message n'est pas prêt.",
+      "category": "communication"
+    },
+    {
+      "id": 271,
+      "text": "Tu ne noies pas ta demande dans du remplissage — dis ce que tu veux, pourquoi, et ce que tu attends.",
+      "category": "communication"
+    },
+    {
+      "id": 272,
+      "text": "Tu commences par ce qui est positif avant de formuler une critique — l'ordre des mots change leur réception.",
+      "category": "communication"
+    },
+    {
+      "id": 273,
+      "text": "Tu ne mets pas quelqu'un en copie pour l'intimider ou le piéger — c'est une lâcheté administrative.",
+      "category": "communication"
+    },
+    {
+      "id": 274,
+      "text": "Tu ne réponds pas à tous en répondant à tous — vérifie toujours si ta réponse concerne vraiment tout le groupe.",
+      "category": "communication"
+    },
+    {
+      "id": 275,
+      "text": "Tu reformules ta demande en une phrase avant d'écrire — si tu ne peux pas, tu n'es pas encore prêt à écrire.",
+      "category": "communication"
+    },
+    {
+      "id": 276,
+      "text": "Tu n'écris pas un email important le soir — relis-le le lendemain matin avant d'envoyer.",
+      "category": "communication"
+    },
+    {
+      "id": 277,
+      "text": "Tu assumes ce que tu écris comme si ça allait être lu par tout le monde — parce que ça peut arriver.",
+      "category": "communication"
+    },
+    {
+      "id": 278,
+      "text": "Tu ne relances pas après 24 heures si le sujet n'est pas urgent — la patience est aussi une forme de communication.",
+      "category": "communication"
+    },
+    {
+      "id": 279,
+      "text": "Tu ne passes pas par un intermédiaire pour dire quelque chose de difficile — écris-le directement à la personne concernée.",
+      "category": "communication"
+    },
+    {
+      "id": 280,
+      "text": "Tu remercies par écrit quand quelqu'un a fait quelque chose pour toi — deux lignes sincères valent mieux que rien.",
+      "category": "communication"
+    },
+    {
+      "id": 281,
+      "text": "Tu ne noies pas une mauvaise nouvelle dans tellement de précautions qu'elle devient incompréhensible — sois clair, sois humain.",
+      "category": "communication"
+    },
+    {
+      "id": 282,
+      "text": "Tu te demandes toujours avant d'envoyer : est-ce que j'écrirais ça en face de cette personne ?",
+      "category": "communication"
     }
   ]
 }
