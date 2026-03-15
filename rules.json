@@ -1413,178 +1413,503 @@
     },
     {
       "id": 283,
-      "text": "Tu t'entraînes non pas pour fuir ce que tu es, mais pour devenir ce que tu peux être.",
-      "category": "discipline"
+      "text": "Tu arrives avant l'heure de début — pas à l'heure, avant.",
+      "category": "work"
     },
     {
       "id": 284,
-      "text": "Tu comprends que ton corps est la première chose que le monde voit de toi — soigne ce message.",
-      "category": "discipline"
+      "text": "Tu préviens dès que possible quand tu es en retard ou absent — jamais après.",
+      "category": "work"
     },
     {
       "id": 285,
-      "text": "Tu fais du sport parce qu'un corps fort supporte mieux la pression, la fatigue et le stress que la vie impose.",
-      "category": "discipline"
+      "text": "Tu respectes les horaires de réunion des autres comme tu voudrais qu'ils respectent les tiens.",
+      "category": "work"
     },
     {
       "id": 286,
-      "text": "Tu sais qu'un homme en forme est pris plus au sérieux — c'est injuste, c'est réel, adapte-toi.",
-      "category": "discipline"
+      "text": "Tu es mentalement présent en réunion — pas en train de répondre à des mails.",
+      "category": "work"
     },
     {
       "id": 287,
-      "text": "Tu construis ton corps comme tu construis ta carrière — avec constance, pas avec intensité épisodique.",
-      "category": "discipline"
+      "text": "Tu ne quittes pas le bureau sans avoir fini ce que tu avais promis pour la journée.",
+      "category": "work"
     },
     {
       "id": 288,
-      "text": "Tu t'entraînes au moins trois fois par semaine — pas quand tu en as envie, quand c'est prévu.",
-      "category": "discipline"
+      "text": "Tu salues tout le monde en arrivant — du directeur à l'agent d'accueil.",
+      "category": "work"
     },
     {
       "id": 289,
-      "text": "Tu ne rates pas deux séances consécutives — une exception est humaine, deux deviennent une habitude.",
-      "category": "discipline"
+      "text": "Tu réponds aux emails professionnels dans la journée, au plus tard le lendemain matin.",
+      "category": "work"
     },
     {
       "id": 290,
-      "text": "Tu sais que la séance que tu veux le moins faire est souvent celle dont tu as le plus besoin.",
-      "category": "discipline"
+      "text": "Tu ne copies pas ton supérieur sur chaque email pour te couvrir — c'est de la lâcheté administrative.",
+      "category": "work"
     },
     {
       "id": 291,
-      "text": "Tu planifies tes entraînements comme des rendez-vous professionnels — ils ne se déplacent pas.",
-      "category": "discipline"
+      "text": "Tu ne parles pas fort au téléphone en open space.",
+      "category": "work"
     },
     {
       "id": 292,
-      "text": "Tu progresses en ajoutant une répétition, un kilo, une minute — la progression est toujours possible.",
-      "category": "discipline"
+      "text": "Tu ne coupes pas la parole en réunion, même quand tu penses avoir la réponse.",
+      "category": "work"
     },
     {
       "id": 293,
-      "text": "Tu comprends que la masse musculaire protège tes articulations, ta posture et ton métabolisme — pas seulement ton miroir.",
-      "category": "discipline"
+      "text": "Tu reformules avant de répondre — ça évite les malentendus et montre que tu écoutes.",
+      "category": "work"
     },
     {
       "id": 294,
-      "text": "Tu manges suffisamment de protéines — un corps qu'on sollicite a besoin de matière pour se reconstruire.",
-      "category": "discipline"
+      "text": "Tu ne règles pas un conflit par email — tu décroches le téléphone ou tu vas voir la personne.",
+      "category": "work"
     },
     {
       "id": 295,
-      "text": "Tu dors sept à neuf heures — c'est là que le muscle se construit, pas pendant la séance.",
-      "category": "discipline"
+      "text": "Tu ne parles pas en mal de tes collègues auprès de ta hiérarchie.",
+      "category": "work"
     },
     {
       "id": 296,
-      "text": "Tu ne négliges pas le bas du corps pour te concentrer sur le torse — un homme complet s'entraîne entièrement.",
-      "category": "discipline"
+      "text": "Tu ne parles pas en mal de ta hiérarchie auprès de tes collègues.",
+      "category": "work"
     },
     {
       "id": 297,
-      "text": "Tu travailles ta posture autant que tes muscles — un dos droit change l'impression que tu dégages.",
-      "category": "discipline"
+      "text": "Tu donnes du feedback direct et constructif — sans détour, sans cruauté.",
+      "category": "work"
     },
     {
       "id": 298,
-      "text": "Tu remarques que ta confiance augmente quand ton corps suit — ce n'est pas de la vanité, c'est de la cohérence.",
-      "category": "discipline"
+      "text": "Tu tiens tes délais ou tu préviens avant qu'ils soient dépassés — jamais après.",
+      "category": "work"
     },
     {
       "id": 299,
-      "text": "Tu sais qu'un corps musclé et entretenu attire l'attention — et que tu mérites cette attention si tu la travailles.",
-      "category": "discipline"
+      "text": "Tu assumes tes erreurs sans chercher un responsable autour de toi.",
+      "category": "work"
     },
     {
       "id": 300,
-      "text": "Tu comprends que l'attractivité physique est une variable que tu contrôles — rare dans une vie où beaucoup ne l'est pas.",
-      "category": "discipline"
+      "text": "Tu finis ce que tu commences avant de prendre autre chose.",
+      "category": "work"
     },
     {
       "id": 301,
-      "text": "Tu te regardes dans le miroir sans complaisance ni cruauté — tu évalues, tu ajustes, tu continues.",
-      "category": "discipline"
+      "text": "Tu ne promets pas ce que tu ne peux pas livrer pour faire bonne impression.",
+      "category": "work"
     },
     {
       "id": 302,
-      "text": "Tu remarques que les gens te traitent différemment quand tu prends soin de toi — utilise cette réalité.",
-      "category": "discipline"
+      "text": "Tu documentes ton travail — ce que tu sais doit pouvoir exister sans toi.",
+      "category": "work"
     },
     {
       "id": 303,
-      "text": "Tu utilises l'entraînement comme régulation émotionnelle — une heure de sport vaut souvent mieux qu'une heure de rumination.",
-      "category": "discipline"
+      "text": "Tu prépares les réunions auxquelles tu participes — lire l'ordre du jour est un minimum.",
+      "category": "work"
     },
     {
       "id": 304,
-      "text": "Tu sais que pousser ton corps au-delà de sa zone de confort t'apprend à pousser ton esprit au-delà de la sienne.",
-      "category": "discipline"
+      "text": "Tu n'arrives pas les mains vides à une réunion de résolution de problème — tu apportes une piste.",
+      "category": "work"
     },
     {
       "id": 305,
-      "text": "Tu apprends à souffrir proprement dans l'effort — ça te servira partout ailleurs.",
-      "category": "discipline"
+      "text": "Tu sais dire non à une tâche supplémentaire quand tu es déjà au maximum — clairement et sans culpabilité.",
+      "category": "work"
     },
     {
       "id": 306,
-      "text": "Tu ne te compares pas aux autres à la salle — compare-toi à toi d'il y a trois mois.",
-      "category": "discipline"
+      "text": "Tu vérifies ton travail avant de l'envoyer — une faute dans un livrable dit beaucoup sur ton sérieux.",
+      "category": "work"
     },
     {
       "id": 307,
-      "text": "Tu sors d'une bonne séance avec moins d'anxiété qu'en y entrant — rappelle-toi ça quand tu veux annuler.",
-      "category": "discipline"
+      "text": "Tu suis tes actions — si tu t'es engagé à faire quelque chose, tu le fais sans qu'on te relance.",
+      "category": "work"
     },
     {
       "id": 308,
-      "text": "Tu construis maintenant le corps qui te permettra d'être actif et autonome à soixante ans.",
-      "category": "discipline"
+      "text": "Tu laisses les espaces partagés comme tu les as trouvés — cuisine, salle de réunion, imprimante.",
+      "category": "work"
     },
     {
       "id": 309,
-      "text": "Tu sais que la sédentarité est un facteur de risque pour presque toutes les maladies graves — bouge.",
-      "category": "discipline"
+      "text": "Tu ne manges pas de repas odorants en open space.",
+      "category": "work"
     },
     {
       "id": 310,
-      "text": "Tu entretiens ta flexibilité et ta mobilité autant que ta force — c'est ce qui te rend fonctionnel, pas juste imposant.",
-      "category": "discipline"
+      "text": "Tu respectes le silence des zones de travail concentré.",
+      "category": "work"
     },
     {
       "id": 311,
-      "text": "Tu récupères sérieusement — étirements, sommeil, nutrition — parce que la progression vit dans la récupération.",
-      "category": "discipline"
+      "text": "Tu ne t'appropries pas les équipements communs.",
+      "category": "work"
     },
     {
       "id": 312,
-      "text": "Tu écoutes les douleurs articulaires et musculaires inhabituelles — l'héroïsme stupide casse, pas construit.",
-      "category": "discipline"
+      "text": "Tu ne laisses pas traîner tes affaires sur les bureaux des autres.",
+      "category": "work"
     },
     {
       "id": 313,
-      "text": "Tu remarques que prendre soin de ton corps améliore tes relations — les gens veulent être autour d'une énergie qui se respecte.",
-      "category": "discipline"
+      "text": "Tu gères ton niveau sonore — rires, musique, conversations — en fonction de l'ambiance du moment.",
+      "category": "work"
     },
     {
       "id": 314,
-      "text": "Tu sais qu'un homme qui se maintient physiquement envoie un signal clair : il se respecte, il respecte les autres.",
-      "category": "discipline"
+      "text": "Tu ne prends pas la dernière tasse de café sans en refaire.",
+      "category": "work"
     },
     {
       "id": 315,
-      "text": "Tu ne te caches pas sous des vêtements trop larges par honte — travaille le corps, ajuste les vêtements ensuite.",
-      "category": "discipline"
+      "text": "Tu respectes la hiérarchie même quand tu n'es pas d'accord — tu exprimes ton désaccord par les bons canaux.",
+      "category": "work"
     },
     {
       "id": 316,
-      "text": "Tu es à l'aise dans ton corps en société — ni arrogant, ni effacé.",
-      "category": "discipline"
+      "text": "Tu ne sautes pas les échelons sans prévenir ton manager direct.",
+      "category": "work"
     },
     {
       "id": 317,
-      "text": "Tu sais que l'attractivité n'est pas une question de perfection, mais de soin — quelqu'un qui prend soin de lui attire.",
-      "category": "discipline"
+      "text": "Tu portes les mauvaises nouvelles à ta hiérarchie tôt — ils détestent les surprises de dernière minute.",
+      "category": "work"
+    },
+    {
+      "id": 318,
+      "text": "Tu ne te prends pas le crédit du travail d'un collègue.",
+      "category": "work"
+    },
+    {
+      "id": 319,
+      "text": "Tu cites tes sources et tes contributeurs quand tu présentes un travail collectif.",
+      "category": "work"
+    },
+    {
+      "id": 320,
+      "text": "Tu ne montres pas ton désaccord avec ta direction devant un client ou un partenaire externe.",
+      "category": "work"
+    },
+    {
+      "id": 321,
+      "text": "Tu soutiens les décisions prises en réunion, même celles que tu n'aurais pas prises — ou tu portes ton désaccord en privé.",
+      "category": "work"
+    },
+    {
+      "id": 322,
+      "text": "Tu demandes de l'aide avant d'être bloqué depuis trop longtemps — l'orgueil coûte cher en temps collectif.",
+      "category": "work"
+    },
+    {
+      "id": 323,
+      "text": "Tu t'habilles en fonction du contexte — client important, présentation, journée interne — ce n'est pas la même chose.",
+      "category": "work"
+    },
+    {
+      "id": 324,
+      "text": "Tu ne te plains pas de ton travail devant les clients ou les partenaires.",
+      "category": "work"
+    },
+    {
+      "id": 325,
+      "text": "Tu ne parles pas de ton salaire à tes collègues sauf si tu es prêt à toutes les conséquences.",
+      "category": "work"
+    },
+    {
+      "id": 326,
+      "text": "Tu éteins ou mets en silencieux ton téléphone en réunion.",
+      "category": "work"
+    },
+    {
+      "id": 327,
+      "text": "Tu ne consultes pas les réseaux sociaux personnels pendant les heures de travail visibles.",
+      "category": "work"
+    },
+    {
+      "id": 328,
+      "text": "Tu gardes tes opinions politiques ou religieuses pour toi dans le cadre professionnel.",
+      "category": "work"
+    },
+    {
+      "id": 329,
+      "text": "Tu ne te plains pas des outils ou des process sans proposer une alternative.",
+      "category": "work"
+    },
+    {
+      "id": 330,
+      "text": "Tu quittes les réunions inutiles avec tact — ton temps a de la valeur, le leur aussi.",
+      "category": "work"
+    },
+    {
+      "id": 331,
+      "text": "Tu ne trahis pas la confidentialité de ton entreprise, même entre amis proches.",
+      "category": "work"
+    },
+    {
+      "id": 332,
+      "text": "Tu te rappelles que ta réputation professionnelle se construit sur des années et se détruit en une journée.",
+      "category": "work"
+    },
+    {
+      "id": 333,
+      "text": "Tu cherches à comprendre le métier de ceux avec qui tu travailles — ça change la façon dont tu collabores.",
+      "category": "work"
+    },
+    {
+      "id": 334,
+      "text": "Tu proposes des solutions, pas seulement des constats — n'importe qui peut voir un problème.",
+      "category": "work"
+    },
+    {
+      "id": 335,
+      "text": "Tu prends des notes en réunion — ta mémoire n'est pas un système fiable.",
+      "category": "work"
+    },
+    {
+      "id": 336,
+      "text": "Tu arrives avec des questions préparées quand tu rencontres quelqu'un de plus expérimenté.",
+      "category": "work"
+    },
+    {
+      "id": 337,
+      "text": "Tu demandes un retour sur ton travail régulièrement — sans attendre l'entretien annuel.",
+      "category": "work"
+    },
+    {
+      "id": 338,
+      "text": "Tu observes les personnes efficaces autour de toi et tu comprends pourquoi elles le sont.",
+      "category": "work"
+    },
+    {
+      "id": 339,
+      "text": "Tu investis dans ta formation sans attendre que l'entreprise la finance.",
+      "category": "work"
+    },
+    {
+      "id": 340,
+      "text": "Tu sais ce que tu veux obtenir de ce poste dans un an — si tu ne le sais pas, personne ne le fera pour toi.",
+      "category": "work"
+    },
+    {
+      "id": 341,
+      "text": "Tu te portes volontaire pour des projets transverses — c'est là que la visibilité se construit.",
+      "category": "work"
+    },
+    {
+      "id": 342,
+      "text": "Tu fais ton travail à 100% même quand personne ne regarde — surtout quand personne ne regarde.",
+      "category": "work"
+    },
+    {
+      "id": 343,
+      "text": "Tu entretiens ton réseau interne — les gens qui te connaissent pensent à toi quand une opportunité arrive.",
+      "category": "work"
+    },
+    {
+      "id": 344,
+      "text": "Tu aides tes collègues sans attendre de retour immédiat — la réputation de quelqu'un de fiable a de la valeur.",
+      "category": "work"
+    },
+    {
+      "id": 345,
+      "text": "Tu t'intéresses sincèrement à ce que font les autres départements.",
+      "category": "work"
+    },
+    {
+      "id": 346,
+      "text": "Tu ne te fais pas des ennemis inutiles — une friction professionnelle non nécessaire est un coût permanent.",
+      "category": "work"
+    },
+    {
+      "id": 347,
+      "text": "Tu traites les stagiaires et les juniors avec le même respect que les seniors.",
+      "category": "work"
+    },
+    {
+      "id": 348,
+      "text": "Tu ne te vantes pas de tes réussites — fais en sorte que les autres en parlent.",
+      "category": "work"
+    },
+    {
+      "id": 349,
+      "text": "Tu reconnais publiquement la contribution des autres quand c'est mérité.",
+      "category": "work"
+    },
+    {
+      "id": 350,
+      "text": "Tu ne monopolises pas la parole en réunion — ton objectif est que la réunion avance, pas que tu brilles.",
+      "category": "work"
+    },
+    {
+      "id": 351,
+      "text": "Tu sais quand rester en dehors d'un conflit qui ne te concerne pas.",
+      "category": "work"
+    },
+    {
+      "id": 352,
+      "text": "Tu construis des alliances transversales — les projets qui réussissent ont des sponsors dans plusieurs équipes.",
+      "category": "work"
+    },
+    {
+      "id": 353,
+      "text": "Tu bats le pic de ta productivité pour les tâches importantes — pas pour les emails.",
+      "category": "work"
+    },
+    {
+      "id": 354,
+      "text": "Tu bloques du temps dans ton agenda pour le travail de fond — sinon les réunions le colonisent.",
+      "category": "work"
+    },
+    {
+      "id": 355,
+      "text": "Tu traites les emails une à deux fois par jour à des horaires fixes — pas en continu.",
+      "category": "work"
+    },
+    {
+      "id": 356,
+      "text": "Tu distingues urgent et important — la plupart des urgences des autres ne sont pas tes priorités.",
+      "category": "work"
+    },
+    {
+      "id": 357,
+      "text": "Tu clôtures ta journée avec une liste de trois choses à faire le lendemain — ça évite de repartir de zéro.",
+      "category": "work"
+    },
+    {
+      "id": 358,
+      "text": "Tu ne laisses pas ton agenda se remplir sans résistance — apprends à refuser les réunions non nécessaires.",
+      "category": "work"
+    },
+    {
+      "id": 359,
+      "text": "Tu arrives préparé aux one-to-one avec ton manager — c'est ton temps autant que le sien.",
+      "category": "work"
+    },
+    {
+      "id": 360,
+      "text": "Tu batchs les tâches similaires plutôt que de passer sans cesse d'un sujet à l'autre.",
+      "category": "work"
+    },
+    {
+      "id": 361,
+      "text": "Tu identifies chaque matin la tâche la plus importante de la journée et tu la fais en premier.",
+      "category": "work"
+    },
+    {
+      "id": 362,
+      "text": "Tu sors du bureau à une heure raisonnable — la présence prolongée n'est pas une preuve de valeur.",
+      "category": "work"
+    },
+    {
+      "id": 363,
+      "text": "Tu abordes les désaccords en privé avant de les porter en public.",
+      "category": "work"
+    },
+    {
+      "id": 364,
+      "text": "Tu sépares le problème de la personne quand tu gères un conflit.",
+      "category": "work"
+    },
+    {
+      "id": 365,
+      "text": "Tu ne prends pas les critiques professionnelles comme des attaques personnelles.",
+      "category": "work"
+    },
+    {
+      "id": 366,
+      "text": "Tu ne laisses pas une tension non dite s'installer — elle grossit toujours.",
+      "category": "work"
+    },
+    {
+      "id": 367,
+      "text": "Tu ne montes pas un collègue contre un autre pour protéger ta position.",
+      "category": "work"
+    },
+    {
+      "id": 368,
+      "text": "Tu dis ce que tu penses à la réunion — pas après dans le couloir.",
+      "category": "work"
+    },
+    {
+      "id": 369,
+      "text": "Tu acceptes qu'on remette en question ton travail sans te braquer — c'est ainsi qu'il s'améliore.",
+      "category": "work"
+    },
+    {
+      "id": 370,
+      "text": "Tu ne sabotes pas un projet parce que tu n'y crois pas — tu contribues ou tu te retires proprement.",
+      "category": "work"
+    },
+    {
+      "id": 371,
+      "text": "Tu gères ton stress sans le décharger sur ton équipe.",
+      "category": "work"
+    },
+    {
+      "id": 372,
+      "text": "Tu sais reconnaître quand un poste ou une entreprise ne te convient plus — et tu pars correctement.",
+      "category": "work"
+    },
+    {
+      "id": 373,
+      "text": "Tu ne brûles pas les ponts en partant — le monde professionnel est petit.",
+      "category": "work"
+    },
+    {
+      "id": 374,
+      "text": "Tu formes ton remplaçant avec autant de soin que si tu restais.",
+      "category": "work"
+    },
+    {
+      "id": 375,
+      "text": "Tu termines les projets en cours avant de partir ou tu organises une passation solide.",
+      "category": "work"
+    },
+    {
+      "id": 376,
+      "text": "Tu ne voles pas de clients, de contacts ou de documents en partant.",
+      "category": "work"
+    },
+    {
+      "id": 377,
+      "text": "Tu pars en laissant une meilleure version du poste que celle que tu as trouvée.",
+      "category": "work"
+    },
+    {
+      "id": 378,
+      "text": "Tu soignes tes présentations comme si elles allaient être vues par les personnes les plus exigeantes de ton secteur.",
+      "category": "work"
+    },
+    {
+      "id": 379,
+      "text": "Tu ne laisses pas un collègue se noyer sur un projet quand tu pourrais lui donner un coup de main.",
+      "category": "work"
+    },
+    {
+      "id": 380,
+      "text": "Tu comprends que ta valeur dans une entreprise se mesure aux problèmes que tu résous, pas aux heures que tu passes.",
+      "category": "work"
+    },
+    {
+      "id": 381,
+      "text": "Tu ne te plains pas des décisions stratégiques que tu ne comprends pas — renseigne-toi d'abord.",
+      "category": "work"
+    },
+    {
+      "id": 382,
+      "text": "Tu laisses ton ego au vestiaire quand la meilleure idée de la réunion n'est pas la tienne.",
+      "category": "work"
     }
   ]
 }
