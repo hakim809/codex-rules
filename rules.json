@@ -1910,6 +1910,106 @@
       "id": 382,
       "text": "Tu laisses ton ego au vestiaire quand la meilleure idée de la réunion n'est pas la tienne.",
       "category": "work"
+    },
+    {
+      "id": 383,
+      "text": "Tu laisses les gens descendre avant de monter — toujours, sans exception.",
+      "category": "transport"
+    },
+    {
+      "id": 384,
+      "text": "Tu cèdes ta place aux personnes âgées, enceintes ou avec des enfants sans attendre qu'on te le demande.",
+      "category": "transport"
+    },
+    {
+      "id": 385,
+      "text": "Tu ne mets pas ton sac sur le siège à côté de toi quand des gens sont debout.",
+      "category": "transport"
+    },
+    {
+      "id": 386,
+      "text": "Tu parles à voix basse au téléphone — ta conversation n'intéresse personne d'autre.",
+      "category": "transport"
+    },
+    {
+      "id": 387,
+      "text": "Tu coupes le son de ta musique ou de ta vidéo — les autres n'ont pas choisi de l'entendre.",
+      "category": "transport"
+    },
+    {
+      "id": 388,
+      "text": "Tu ne manges pas de repas chauds ou odorants dans les transports.",
+      "category": "transport"
+    },
+    {
+      "id": 389,
+      "text": "Tu te pousses vers le fond du wagon au lieu de bloquer l'entrée.",
+      "category": "transport"
+    },
+    {
+      "id": 390,
+      "text": "Tu ne bloques pas les portes avec ton corps ou tes affaires.",
+      "category": "transport"
+    },
+    {
+      "id": 391,
+      "text": "Tu ranges ton sac à dos devant toi ou en soute pour ne pas occuper deux fois ton espace.",
+      "category": "transport"
+    },
+    {
+      "id": 392,
+      "text": "Tu gardes tes écouteurs sur les oreilles et non autour du cou en faisant fuir le son.",
+      "category": "transport"
+    },
+    {
+      "id": 393,
+      "text": "Tu ne fixes pas les gens — ton téléphone ou la fenêtre sont de meilleures options.",
+      "category": "transport"
+    },
+    {
+      "id": 394,
+      "text": "Tu ne t'assieds pas en écartant les genoux au détriment de ton voisin.",
+      "category": "transport"
+    },
+    {
+      "id": 395,
+      "text": "Tu ranges tes déchets dans ta poche ou ton sac — le sol n'est pas une poubelle.",
+      "category": "transport"
+    },
+    {
+      "id": 396,
+      "text": "Tu laisses prioritairement les places assises aux personnes qui en ont besoin avant toi.",
+      "category": "transport"
+    },
+    {
+      "id": 397,
+      "text": "Tu ne klaxonnes pas ton trajet à coup de messages et notifications en mode haut-parleur.",
+      "category": "transport"
+    },
+    {
+      "id": 398,
+      "text": "Tu salues le chauffeur en montant et le remercies en descendant.",
+      "category": "transport"
+    },
+    {
+      "id": 399,
+      "text": "Tu ne bloques pas le couloir avec ta valise pendant que d'autres cherchent de la place.",
+      "category": "transport"
+    },
+    {
+      "id": 400,
+      "text": "Tu valides ton titre de transport sans attendre qu'un contrôleur te le rappelle.",
+      "category": "transport"
+    },
+    {
+      "id": 401,
+      "text": "Tu te retiens de commentaires à voix haute sur les autres passagers.",
+      "category": "transport"
+    },
+    {
+      "id": 402,
+      "text": "Tu gardes ton calme en cas de retard ou d'incident — t'énerver ne fera pas avancer le train.",
+      "category": "transport"
     }
   ]
 }
